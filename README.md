@@ -15,4 +15,5 @@ Sources:
 - [PocketSongsGM by Vini](https://musical-artifacts.com/artifacts/6204)
 - [ModuleII by Vini](https://musical-artifacts.com/artifacts/7449)
 - [DSK PleyadeS](https://www.dskmusic.com/dsk-pleyades/) (DSK Music VSTi is free for private and commerical use, so it's okay to use)
+- [DSK BlueZ](https://www.dskmusic.com/dsk-bluez/)
 - Yingchun Soul Presets (e.g. Surge, Dexed, etc.)
