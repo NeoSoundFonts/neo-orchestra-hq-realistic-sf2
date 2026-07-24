@@ -17,4 +17,5 @@ Sources:
 - [DSK PleyadeS](https://www.dskmusic.com/dsk-pleyades/) (DSK Music VSTi is free for private and commerical use, so it's okay to use)
 - [DSK BlueZ](https://www.dskmusic.com/dsk-bluez/)
 - [1984 VSTi](https://plugins4free.com/plugin/894)
+- [spt3125 Gayageum](https://freesound.org/people/spt3125/packs/1534/)
 - Yingchun Soul Presets (e.g. Surge, Dexed, etc.)
