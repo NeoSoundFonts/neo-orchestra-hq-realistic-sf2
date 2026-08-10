@@ -6,6 +6,7 @@ This is a libre source variation of the terrible SoundFont called Orchestra HQ T
 Sources:
 
 - Mike77154 (Recorder, Pseudo D-50 Synth Presets)
+- VCSL
 - VSCO-2 CE
 - FreePats
 - Karoryfer
@@ -19,3 +20,6 @@ Sources:
 - [1984 VSTi](https://plugins4free.com/plugin/894)
 - [spt3125 Gayageum](https://freesound.org/people/spt3125/packs/1534/)
 - Yingchun Soul Presets (e.g. Surge, Dexed, etc.)
+- [Vini CC0 Real Kalimba](https://musical-artifacts.com/artifacts/9028)
+- [Vini CC0 Harmonica](https://musical-artifacts.com/artifacts/9029)
+- [SDGR Fretless](https://musical-artifacts.com/artifacts/9014)
